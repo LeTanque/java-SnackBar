@@ -1,4 +1,4 @@
-# Project Snack Bar:
+# Project snackBar.Snack Bar:
 
 A student that completes this project shows that they can:
 
@@ -9,22 +9,22 @@ A student that completes this project shows that they can:
 
 # Introduction
 
-Variations on the Snack Bar Project have been part of Java Education 
+Variations on the snackBar.Snack Bar Project have been part of Java Education 
 since Java was created. So, we will do one. The point is to set up 
 vending machines where a person buys snacks from those machines.
 
 # Instructions
 
-## Snack
+## snackBar.Snack
 
-Snack has fields (so knows)
+snackBar.Snack has fields (so knows)
 * id
 * name
 * quantity 
 * cost
 * vending machine id
 
-Snack has methods (so can) 
+snackBar.Snack has methods (so can) 
 * set and get id
 * set and get name
 * set and get cost
